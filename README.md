@@ -1,7 +1,10 @@
-# gpc
+# GPC - Grupo de Programação Competitiva
 
 Este respositório irá conter soluções para questões resolvidas durante os encontros do Grupo de Programação Competitiva do campus de Piripiri da UESPI.
 
+
+## Mapa de questões por tipo
+(à fazer)
 
 ## Contribuições:
 - Faça um fork do repositório;
