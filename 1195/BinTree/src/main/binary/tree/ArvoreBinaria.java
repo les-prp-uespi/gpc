@@ -1,4 +1,4 @@
-package bin.tree;
+package binary.tree;
 
 public class ArvoreBinaria {
 	
